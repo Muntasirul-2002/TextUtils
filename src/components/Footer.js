@@ -14,7 +14,7 @@ export default function footer(props) {
           >
             <b>
               copyright &copy; Developed by{" "}
-              <a href="https://muntasirulislam.me/">Muntasirul islam</a>
+              <a href="https://m-islam.netlify.app/">Muntasirul islam</a>
             </b>
           </div>
         </Row>
